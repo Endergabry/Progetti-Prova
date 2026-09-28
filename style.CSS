@@ -1,0 +1,46 @@
+.background-viola{
+    background-color: #480808;
+}
+.distanziatore{
+    margin-top: 56px;
+}
+.conteinerfooter{
+    min-width: 100vw;
+    padding-right: 0;
+}
+.backgroundcarte{
+    background-color: #9b0101;
+}
+.carousel-item > img{
+    height: 90vh;
+}
+.cardpiccola{
+    height: 90vh;
+}
+.imgNerv{
+    height: 40px;
+    width: 40px;
+}
+.sticky-imm{
+    position: sticky;
+    top: 70px;
+}
+.sticky-descrizione{
+    position: sticky;
+    top: 90px;
+}
+
+
+a{
+    color: #151414;
+    text-decoration: none;
+}
+.cardpagina{
+    height: 50vh;
+    width: 100vh;
+}
+.conteinerpagina{
+    height: calc(100vh - 56px)  !important;
+    width: 100vw !important;
+}
+
